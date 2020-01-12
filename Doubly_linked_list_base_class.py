@@ -5,7 +5,7 @@
 
 class  _DoublyLinkedListBase:
     ''' base class representating doubly linked list '''
-    def _Node:
+    class _Node:
         __slot__='_data','_next','_previous'
         def __init__(self,data,next,previous):
             self._data=data
