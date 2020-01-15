@@ -2,7 +2,7 @@
 # coding: utf-8
 
 ### Doubly linked list base class
-
+__author__ = 'khem'
 class  _DoublyLinkedListBase:
     ''' base class representating doubly linked list '''
     class _Node:
